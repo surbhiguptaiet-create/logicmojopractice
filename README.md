@@ -33,3 +33,4 @@
      }
  |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/10-missing-number.java?raw=true) | May 24, 2026 | using xor and with sum we can do |
+| 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/5-container-with-most-water.java?raw=true) | May 24, 2026 | - |
