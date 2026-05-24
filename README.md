@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 3/145 problems  
+**Solved:** 4/145 problems  
 **Last Updated:** May 24, 2026
 
 ## Solutions
@@ -32,3 +32,4 @@
      
      }
  |
+| 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/10-missing-number.java?raw=true) | May 24, 2026 | using xor and with sum we can do |
