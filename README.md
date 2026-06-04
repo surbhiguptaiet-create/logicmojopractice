@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 4/145 problems  
-**Last Updated:** May 24, 2026
+**Last Updated:** Jun 4, 2026
 
 ## Solutions
 
@@ -34,3 +34,4 @@
  |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/10-missing-number.java?raw=true) | May 24, 2026 | using xor and with sum we can do |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/5-container-with-most-water.java?raw=true) | May 24, 2026 | - |
+| 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/7-rotate-array.java?raw=true) | Jun 4, 2026 | - |
