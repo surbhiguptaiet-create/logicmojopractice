@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 4/145 problems  
-**Last Updated:** Jun 4, 2026
+**Last Updated:** Jun 22, 2026
 
 ## Solutions
 
@@ -36,3 +36,4 @@
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/5-container-with-most-water.java?raw=true) | May 24, 2026 | - |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/7-rotate-array.java?raw=true) | Jun 4, 2026 | - |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/11-top-k-frequent-elements.java?raw=true) | Jun 4, 2026 | - |
+| 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/surbhiguptaiet-create/logicmojopractice/main/solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 22, 2026 | - |
